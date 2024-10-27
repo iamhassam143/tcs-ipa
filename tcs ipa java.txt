@@ -1,0 +1,70 @@
+Is it easy to get a 55%+ score in TCS ILP explore 1 sem1 and 2 proctored assessment for a NON-CSE/IT student?
+That's quite a good question and congrats you are one step near to success. 
+I'm a guy from CSE background and I was able to achieve 80%+ score with almost no preparation(Except I referred Wikipedia for Know your TCS).
+
+Coming to a guy from non-CS/IT background, before test you have Xplore program. 
+Just a quite glace into that can help you answer almost all the MCQs. 
+Coming to the coding part, here you have two questions- one easy and one medium level.
+
+Easy question is almost given from your academics or some most common question you find on Google and it needs only one logic to generate output.
+
+Second question has two logics(ex. Sorting and searching together, applying complex concepts like array of objects etc.) 
+For this to clear all you need have is basic knowledge and syntax and good logic writing skills.
+
+
+
+
+
+
+
+
+
+
+I recently appeared for TCS Xplore IPA and scored 97%, here's the mail you get on scoring that.
+
+I would say it's very easy to score 80+, but luck factor is involved, 
+I only got 51% in my first attempt but that was with 0 preparation and bad luck as I couldn't even complete both coding questions, 
+which is due to their bad interface and unfamiliarity with the type of question asked, 
+so, first attempt gave me a good Idea as to what I should focus on in second attempt.
+
+that's one reason why I was able to score 47/50 in second attempt, but scoring atleast 30 should be easy anyways.
+
+What you really have to focus on is the coding section, there will be a 15 mark basic question and a 35 mark basic but lengthy question, 
+getting a full 50 in coding section is only way you could possibly ensure 80+ score, and that's not hard.
+
+Let's assume you can do 15 mark question like any other normal person, 
+now you've to make sure you solve the 35 mark question as well, what's hard in this section is completing it within time limit, 
+which is more than enough, I will give you a useful trick that the guy sitting besides me gave before the test, do the coding section first, 
+worst that could happen is you don't have any time left for MCQ, 
+but you could even randomly mark MCQ in last 60 seconds and get atleast half correct, 
+coding question guarantees 50 marks so that should be priority.
+
+Now that you're at the 35 mark coding question, you have to divide the lengthy problem statement, 
+biggest mistake you could do is write code directly as the problem statement says, 
+this is bad as it tells you to write classes before you know what your data is, 
+you'll end up writing entire program and when you run it you'll have so many bugs you won't be able to fix in within time limit, 
+the trick is to jump to the example section directly, read input first, store it temporarily in some array or object and print it.
+
+This is another trick, TCS editor does not allow you to see output, but it shows you error, 
+you can use this to print anything, just throw exception wrapping what you want to print.
+
+Now that you've read input and seen that it's working fine, you've finished half the work, 
+now if any bug happens you know it's somewhere in classes you wrote.
+
+Now build classes as mentioned from top, and keep debugging after every few lines of code, 
+better fix bugs while writing so you know where issue is.
+
+Now the hard part is understanding what the problem statement says, it can be very obscure and understanding can be tough, 
+that's also luck based if your problem statement is bad but you can do it with enough effort.
+
+So you're done with both coding questions and 50 marks are guaranteed, 
+so just 30 more marks, shouldn't be hard, you know?
+
+Fun fact, i completed entire test in 1 hour.
+
+
+
+https://www.guvi.in/blog/top-tcs-ipa-exam-questions-and-tips-to-crack-tcs/
+
+insider
+https://leetcode.com/discuss/interview-question/5454333/How-to-score-80%2B-in-IPA-exam-or-TCS-or-Xplore
